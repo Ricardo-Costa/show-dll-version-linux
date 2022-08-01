@@ -23,5 +23,5 @@
 
 **Command**
 ```bash
-bash sdvl.sh <dll-file-full-path>
+sdvl.sh <dll-file-full-path>
 ```
