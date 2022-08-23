@@ -26,7 +26,7 @@
 sdvl.sh <dll-file-full-path>
 ```
 **Requirements**
-- Linux package `binutils`, usually installed by default on Linux system. You can install it by running de following command.
+- Linux package `binutils`, usually installed by default on Linux system. You can install it by running the following command.
   ```bash
   sudo apt-get install binutils
   ```
